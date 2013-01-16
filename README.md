@@ -22,3 +22,8 @@ blah
 > Etiam vitae porta metus. Praesent facilisis, orci bibendum fringilla bibendum, elit metus luctus est, non cursus ligula eros vel urna. Aliquam commodo ultricies ante rutrum congue. Aenean tincidunt, nisl quis scelerisque dictum, erat lectus dapibus velit, quis blandit sem nisi et sem. Phasellus porttitor pellentesque fermentum. Vestibulum turpis massa, malesuada eu cursus nec, fringilla a odio. Quisque mollis nisl at enim pharetra rhoncus. Nullam dolor nunc, vestibulum non blandit vel, interdum vel metus. Mauris ultrices leo eu velit vehicula eget venenatis ipsum lacinia. Etiam arcu mi, bibendum nec tempus sit amet, varius eget urna. Aliquam erat volutpat. Etiam adipiscing varius felis sit amet commodo.
 
 Fix this & that
+# A Good Place to Practice Markdown Syntax & vim-markdown-folding Plugin
+Practice the [syntax][Markdown-Syntax] of Markdown document, and the usage of plugin's commands by following the [screencast][VimCast:vim-markdown-folding] on VimCasts.
+
+[Markdown-Syntax]: http://markdown.tw (Markdown syntax)
+[VimCast:vim-markdown-folding]: http://vimcasts.org/episodes/how-to-fold/ (How to fold)
