@@ -1,6 +1,9 @@
 # Sandbox
 
 A toy project created for all the users to try out whatever Git/Redmine functionalities that they are curious or unfamiliar with.
+
+[Course material][iHower:Git] for this tutorial
+
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, neque at aliquam venenatis, ligula leo bibendum nunc, vitae laoreet odio felis vel tortor. Proin commodo, enim id pulvinar consequat, diam nisi auctor metus, nec malesuada leo mauris ut lacus. Etiam ultrices risus nec dui feugiat fermentum. Cras dictum faucibus magna a dignissim. Nunc sit amet fringilla est. Donec ipsum nisl, gravida quis sollicitudin at, viverra interdum sapien. Sed in erat ut urna venenatis gravida. Aliquam erat volutpat. Duis pretium volutpat sem, sed lacinia augue laoreet in.
 >
 > > * oooo iiii
@@ -27,5 +30,6 @@ It's a good place to practice the following skill:
 * [syntax][Markdown-Syntax] of Markdown document, 
 * the usage of plugin's commands (by following the [screencast][VimCast:vim-markdown-folding] on VimCasts.)
 
+[iHower:Git]: http://ihower.tw/git (Git tutorial from ihower)
 [Markdown-Syntax]: http://markdown.tw (Markdown syntax)
 [VimCast:vim-markdown-folding]: http://vimcasts.org/episodes/how-to-fold/ (How to fold)
