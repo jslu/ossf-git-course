@@ -33,6 +33,9 @@ It's a good place to practice the following skill:
 * [syntax][Markdown-Syntax] of Markdown document, 
 * the usage of plugin's commands (by following the [screencast][VimCast:vim-markdown-folding] on VimCasts.)
 
+# Fork/Pull request
+Now this tutorial project is now available to practice fork/pull request between team members.
+
 [iHower:Git]: http://ihower.tw/git (Git tutorial from ihower)
 [Markdown-Syntax]: http://markdown.tw (Markdown syntax)
 [VimCast:vim-markdown-folding]: http://vimcasts.org/episodes/how-to-fold/ (How to fold)
