@@ -25,10 +25,14 @@ blah
 > Etiam vitae porta metus. Praesent facilisis, orci bibendum fringilla bibendum, elit metus luctus est, non cursus ligula eros vel urna. Aliquam commodo ultricies ante rutrum congue. Aenean tincidunt, nisl quis scelerisque dictum, erat lectus dapibus velit, quis blandit sem nisi et sem. Phasellus porttitor pellentesque fermentum. Vestibulum turpis massa, malesuada eu cursus nec, fringilla a odio. Quisque mollis nisl at enim pharetra rhoncus. Nullam dolor nunc, vestibulum non blandit vel, interdum vel metus. Mauris ultrices leo eu velit vehicula eget venenatis ipsum lacinia. Etiam arcu mi, bibendum nec tempus sit amet, varius eget urna. Aliquam erat volutpat. Etiam adipiscing varius felis sit amet commodo.
 
 Fix this & that
+
 # Practice Markdown Syntax & vim-markdown-folding Plugin
 It's a good place to practice the following skill:
 * [syntax][Markdown-Syntax] of Markdown document, 
 * the usage of plugin's commands (by following the [screencast][VimCast:vim-markdown-folding] on VimCasts.)
+
+# Fork/Pull request
+Now this tutorial project is now available to practice fork/pull request between team members.
 
 [iHower:Git]: http://ihower.tw/git (Git tutorial from ihower)
 [Markdown-Syntax]: http://markdown.tw (Markdown syntax)
